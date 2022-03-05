@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head-1{
+    background-color: rgb(63, 34, 167);
+    padding: 20px 0 20px 0 ;
+}
+.head-menu li {
+    display: inline-block;
+    background-color: #ff3838;
+    padding: 15px 20px 15px 5px ;
+    margin: 20px 0 20px 30px ;
+    border-right: 1px solid white;
+}
+ul li a{
+    color: white;
+}
+
+.body-2
+{
+    margin-top: -20px;
+    padding: 125px 80px 0 80px ;
+    height: 475px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(./pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustration-backgroundadvertising-image_58694.jpg );
+
+}
+.contact
+{
+    margin-top: 40px;
+    background-color: #27ae60;
+    display: inline-block;
+    padding: 8px 40px 8px 40px ;
+}
+.body-3
+{
+    padding: 125px 0 0 0 ;
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+    background-image: url( ./pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg );
+}
+.contact-2
+{
+    margin-top: 40px;
+    background-color: black;
+    display: inline-block;
+    padding: 8px 40px 8px 40px ;
+}
+.body-4
+{
+    background-color: #44bd32;
+    margin-top: -20px 0 0 0 ;
+    padding: 60px 0 0 0 ;
+    height: 450px;
+    width: 100%;
+}
+.profile-1{
+    font-size: 15px;
+    margin: 0 250px 0 550px ;
+    display: inline-block;
+    background-color: brown;
+}
+.profile-2{
+    display: inline-block;
+}
+p{
+    display: inline-block;
+}
+
+.team_section{
+    background-color: #4ab75c;
+}
+.team-item h1{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.team-1{
+    padding: 40px 100px;
+    text-align: center;
+    margin-right: 200px;
+    margin-bottom: 80px;
+    
+}
+.team-2{
+    padding: 40px 100px;
+    text-align: center;
+    margin-left: 60px;
+    
+}
+.team-1 img{
+    height: auto;
+    width: 125px;
+    display: inline-block;
+}
+.team-2 img{
+    height: auto;
+    width: 125px;
+    display: inline-block;
+
+}
+.team-1 .t-item1{
+    display: inline-block;
+    height: auto;
+    width: 50%;
+    padding-left: 80px;
+}
+.team-2 .t-item2{
+    display: inline-block;
+    padding-right: 80px;
+    height: auto;
+    width: 50%;
+    padding-bottom: 100px;
+}
+
+
+.foot{
+    text-align: center;
+}
+.foot ul li{
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    width: 100px;
+}
+.foot ul{
+    background-color: #2c1a8e;
+    padding: 20px;
+}
+

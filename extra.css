@@ -1,0 +1,10 @@
+.heading-1{
+    background-color: #009432;
+    
+}
+.paragraph-1{
+    display: inline-block;
+    color: black;
+    background-color: yellow;
+    margin: 0 100px 0 100px ;
+}
